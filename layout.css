@@ -3,6 +3,7 @@ body{
 	padding: 0px;
 	margin:0;
 }
+/*灰色盒子*/
 .box{
 	width: 400px;
 	height: 200px;
@@ -15,6 +16,7 @@ body{
 	margin-left: -200px;
 	overflow: hidden;
 }
+/*左上角的四分之一圆*/
 .box1{
 	width: 100px;
 	height: 100px;
@@ -24,6 +26,7 @@ body{
 	top: -50px;
 	left: -50px;
 }
+/*右下角的四分之一圆*/
 .box2{
 	width: 100px;
 	height: 100px;
